@@ -1,7 +1,7 @@
 ---
 title: "Оригами заяц"
 date: 2020-10-12T20:41:29+06:00
-draft: true
+draft: false
 ---
 
 ![Картинка][image2]

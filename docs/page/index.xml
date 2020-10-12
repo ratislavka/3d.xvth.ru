@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Блог о 3D-печати</title>
-    <link>https://example.com/page/</link>
+    <link>https://3d.xvth.ru/page/</link>
     <description>Recent content in Pages on Блог о 3D-печати</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <copyright>My Name</copyright>
     <lastBuildDate>Mon, 12 Oct 2020 21:48:56 +0600</lastBuildDate>
     
-	<atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://3d.xvth.ru/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/page/contact/</link>
+      <link>https://3d.xvth.ru/page/contact/</link>
       <pubDate>Mon, 12 Oct 2020 21:48:56 +0600</pubDate>
       
-      <guid>https://example.com/page/contact/</guid>
+      <guid>https://3d.xvth.ru/page/contact/</guid>
       <description>Hello world!</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/page/about/</link>
+      <link>https://3d.xvth.ru/page/about/</link>
       <pubDate>Mon, 12 Oct 2020 21:47:30 +0600</pubDate>
       
-      <guid>https://example.com/page/about/</guid>
+      <guid>https://3d.xvth.ru/page/about/</guid>
       <description></description>
     </item>
     
