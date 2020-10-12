@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
     <copyright>My Name</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 22:11:27 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 22:28:09 +0600</lastBuildDate>
     
 	<atom:link href="https://3d.xvth.ru/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Оригами кошка</title>
+      <link>https://3d.xvth.ru/2020/10/12/origami_cat/</link>
+      <pubDate>Mon, 12 Oct 2020 22:28:09 +0600</pubDate>
+      
+      <guid>https://3d.xvth.ru/2020/10/12/origami_cat/</guid>
+      <description>Толщина слоя 0.2 Скорость печати 40 Заполнение 40 Печатался примерно 2.5-3 часа Небольшые недочеты как у зайца.</description>
+    </item>
     
     <item>
       <title>Кораблик Бенчи</title>
@@ -54,6 +63,15 @@
       <pubDate>Mon, 12 Oct 2020 20:41:29 +0600</pubDate>
       
       <guid>https://3d.xvth.ru/2020/10/12/origami_hare/</guid>
+      <description>Толщина слоя: 0.2 Скорость печати: 40 Заполнение: 40% Печатался примерно: 4.5 часа  Есть недочеты вроде полосок. Точную причину незнаю, скорее всего так нарезал слайсер.(Cura). Без поддержек</description>
+    </item>
+    
+    <item>
+      <title>Оригами заяц</title>
+      <link>https://3d.xvth.ru/project/origami_hare/</link>
+      <pubDate>Mon, 12 Oct 2020 20:41:29 +0600</pubDate>
+      
+      <guid>https://3d.xvth.ru/project/origami_hare/</guid>
       <description>Толщина слоя: 0.2 Скорость печати: 40 Заполнение: 40% Печатался примерно: 4.5 часа  Есть недочеты вроде полосок. Точную причину незнаю, скорее всего так нарезал слайсер.(Cura). Без поддержек</description>
     </item>
     
