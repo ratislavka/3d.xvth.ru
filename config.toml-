@@ -1,0 +1,6 @@
+baseURL = "http://3d.xvth.ru/"
+languageCode = "ru-ru"
+title = "БЛОГ О 3D-ПЕЧАТИ"
+theme = "ghostwriter"
+publishDir = "docs"
+
